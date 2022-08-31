@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
  echo "ALX school is so cool!"
+=======
+ echo "ALX school is a nice place to study software engineering"
+>>>>>>> update_script
