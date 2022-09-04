@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
- echo "ALX school is so cool!"
-=======
- echo "ALX school is a nice place to study software engineering"
->>>>>>> update_script
-=======
- echo "ALX school is a nice place to study software engineering. what a nice experience here"
->>>>>>> update_script
+echo "ALX school is so cool"
